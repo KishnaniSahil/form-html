@@ -1,0 +1,31 @@
+.diva1{
+    height: 60px;
+    background-color: yellow;
+}
+.diva2{
+    height: 60px;
+    background-color: chocolate;
+}
+.arow{
+    border: 2px solid pink;
+}
+.diva3{
+    height: 60px;
+    background-color:teal;
+}
+.diva4{
+    height: 60px;
+    background-color: palevioletred;
+}
+.diva5{
+    height: 60px;
+    background-color:burlywood;
+}
+.diva6{
+    height: 60px;
+    background-color: red;
+}
+.cbox{
+    border: 5px solid;
+    display: inline-block;
+}
